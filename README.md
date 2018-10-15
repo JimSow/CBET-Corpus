@@ -1,5 +1,5 @@
 # CBET-Corpus
-This repository is used to store corpus for CBET. Please note that there are some sample documents in the directory of domain-specific corpus due to the limitation that files loaded on Github must not exceed 100 MB. <br />
+This repository is used to store corpus for CBET. Please note that there are some sample documents in the directory of domain-specific corpus due to the limitation that files loaded on Github must not exceed 25 MB. <br />
 The domain-specific corpus consists of numerous academic literatures in the field of Educational Technology. And these literatures are derived from the following open access scientific journals. <br />
 <ul>
     <li>China Educational Technology (中国电化教育) <br /></li>
