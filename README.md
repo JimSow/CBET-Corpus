@@ -7,4 +7,4 @@ The domain-specific corpus consists of numerous academic literatures in the fiel
     (4) Modern Distance Education (现代远距离教育) <br />
 If you want to download all the the domain-specific corpus or have any questions, please contact me without hesitating. My e-mail address is <a> jimsow@163.com </a>. <br />
 
-<h2>Notes to the statement, "Copyrights of all academic literatures belong to the above-mentioned scientific journals. " You are free to use for academic research or non-profit making purpose, but not for commercial use without permission.</h2>
+<h2>Copyrights of all academic literatures belong to the above-mentioned scientific journals. You are free to use for academic research or non-profit making purpose, but not for commercial use without permission.</h2>
